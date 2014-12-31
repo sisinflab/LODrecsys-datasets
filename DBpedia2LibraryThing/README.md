@@ -6,14 +6,14 @@ DBpedia-To-LibraryThing
 Description
 -----------
 
-    This file contains the mappings between the books in the LibraryThing dataset (available at http://www.macle.nl/tud/LT/LT.rar) to the correspondent DBpedia resources (DBpedia v3.9). 
+This file contains the mappings between the books in the LibraryThing dataset (available at http://www.macle.nl/tud/LT/LT.rar) to the correspondent DBpedia resources (DBpedia v3.9). 
 
     
-    The MappingDBpedia2LibraryThing.tsv mapping file is formatted one entry per line as follows (tab separated, "\t"):  
-    book_id	book_title	DBpedia_URI  
-    An example of mapping is the following:  
-    3123767	The Da Vinci Code	http://dbpedia.org/resource/The_Da_Vinci_Code  
-    We did not find a mapping for all the books in the dataset. We found a valid mapping for 8170 of them.
+The MappingDBpedia2LibraryThing.tsv mapping file is formatted one entry per line as follows (tab separated, "\t"):  
+book_id	book_title	DBpedia_URI  
+An example of mapping is the following:  
+3123767	The Da Vinci Code	http://dbpedia.org/resource/The_Da_Vinci_Code  
+We did not find a mapping for all the books in the dataset. We found a valid mapping for 8170 of them.
 
 
 References
