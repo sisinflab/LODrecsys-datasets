@@ -94,12 +94,12 @@ or
 
 Credits
 -------
-
-   The version 1.0 of this mapping was built by Vito Claudio Ostuni.
-   
-   The version 1.1 was built by Paolo Albano and Tommaso Di Noia.
    
    The version 1.2 is an improvement of the previous version made by Paolo Tomeo.
+   
+   The version 1.1 was built by Paolo Albano and Tommaso Di Noia.
+
+   The version 1.0 of this mapping was built by Vito Claudio Ostuni.
 
 
 Contacts
@@ -110,5 +110,3 @@ Contacts
    Paolo Tomeo, paolo [dot] tomeo [at] poliba [dot] it 
    
    Vito Claudio Ostuni, vitoclaudio [dot] ostuni [at] poliba [dot] it  
-
-
