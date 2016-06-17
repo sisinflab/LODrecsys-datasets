@@ -45,17 +45,6 @@ Version 1
 
 The file contains the mappings between the artists in the hetrec2011-lastfm-2k dataset to the correspondent DBpedia resources (DBpedia v3.9). 
 
-The hetrec2011-lastfm-2k dataset is released in the framework of the 2nd International Workshop on   
-Information Heterogeneity and Fusion in Recommender Systems (HetRec 2011)   
-http://ir.ii.uam.es/hetrec2011   
-at the 5th ACM Conference on Recommender Systems (RecSys 2011)  
-http://recsys.acm.org/2011  
-
-The MappingDBpedia2Lastfm.tsv mapping file is formatted one entry per line as follows (tab separated, "\t"):  
-artist_id	artist_name	DBpedia_URI  
-An example of mapping is the following:  
-1934	Adele	http://dbpedia.org/resource/Adele  
-
 We did not find a mapping for all the artists in hetrec2011-lastfm-2k. We found a valid mapping for 8175 of them.  
 
 
