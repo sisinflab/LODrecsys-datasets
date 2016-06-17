@@ -1,5 +1,5 @@
 
-DBpedia-To-MovieLens1m
+Mapping artists of MovieLens1M to DBpedia
 =======================
 The MovieLens1M dataset is published by GroupLeans research group (http://www.grouplens.org/datasets/movielens/).
 
