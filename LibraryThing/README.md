@@ -46,8 +46,7 @@ We did not find a mapping for all the books in the dataset. We found a valid map
 
 References
 ----------
-   
-   If you use these mappings in your scientific work, please cite as:
+If you use these mappings in your scientific work, please cite as:
 
 ~~~
 @inproceedings{Ostuni:2013:TRI:2507157.2507172,
