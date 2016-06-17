@@ -8,14 +8,16 @@ You may find more information about each mapping in the relative README.
 
 If you are interested in knowing more about how to use this data, you can have a look at these papers: 
 
-> @Article{DOTD16, 
->  author = {Tommaso {Di Noia} and Vito Claudio Ostuni and Paolo Tomeo and Eugenio {Di Sciascio}}, 
->  title = "SPRank: Semantic Path-based Ranking for Top-N Recommendations using Linked Open Data", 
->  journal = "ACM Transactions on Intelligent Systems and Technology (TIST)", 
->  year = "2016", 
->  note = "to appear", 
->  url = "http://sisinflab.poliba.it/sisinflab/publications/2016/DOTD16" 
-> }
+> @Article{DOTD16,   
+>  author = {Tommaso {Di Noia} and Vito Claudio Ostuni and Paolo Tomeo and Eugenio {Di Sciascio}},   
+>  title = "SPRank: Semantic Path-based Ranking for Top-N Recommendations using Linked Open Data",   
+>  journal = "ACM Transactions on Intelligent Systems and Technology (TIST)",   
+>  year = "2016",   
+>  note = "to appear",   
+>  url = "http://sisinflab.poliba.it/sisinflab/publications/2016/DOTD16"   
+> } 
+
+or 
 
 > @inproceedings{Ostuni:2013:TRI:2507157.2507172,  
 > author = {Ostuni, Vito Claudio and Di Noia, Tommaso and Di Sciascio, Eugenio and Mirizzi, Roberto},  
@@ -34,6 +36,7 @@ If you are interested in knowing more about how to use this data, you can have a
 > address = {New York, NY, USA},  
 >} 
 
+or 
 
 > @inproceedings{DiNoia:2012:LOD:2362499.2362501,  
 >    author = {Di Noia, Tommaso and Mirizzi, Roberto and Ostuni, Vito Claudio and Romito, Davide and Zanker, Markus}, 
