@@ -3,6 +3,8 @@ Mapping artists of Last.fm to DBpedia
 The hetrec2011-lastfm-2k dataset is released in the framework of the 2nd International Workshop on Information Heterogeneity and Fusion in Recommender Systems [HetRec 2011](http://ir.ii.uam.es/hetrec2011)
 at the 5th ACM Conference on Recommender Systems [RecSys 2011](http://recsys.acm.org/2011) 
 
+If you use the hetrec2011-lastfm-2k dataset please refer to:  
+   http://ir.ii.uam.es/hetrec2011/datasets/lastfm/readme.txt  
 
 The mapping files are formatted one entry per line as follows (tab separated, "\t"):  
 artist_id	artist_name	DBpedia_URI  
