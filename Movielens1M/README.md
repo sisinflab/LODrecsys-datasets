@@ -24,8 +24,8 @@ We found a match for 3,300 out of a total of 3,883 movies.
 
 References
 ----------
-   
-    If you use these mappings in your scientific work, please cite as  
+If you use these mappings in your scientific work, please cite as  
+
 ~~~
 @Article{DOTD16, 
   author = {Tommaso {Di Noia} and Vito Claudio Ostuni and Paolo Tomeo and Eugenio {Di Sciascio}}, 
