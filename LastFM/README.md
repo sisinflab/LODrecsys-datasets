@@ -1,12 +1,10 @@
 Mapping artists of Last.fm to DBpedia
 =======================
-The hetrec2011-lastfm-2k dataset is released in the framework of the 2nd International Workshop on   
-Information Heterogeneity and Fusion in Recommender Systems (HetRec 2011)   
-http://ir.ii.uam.es/hetrec2011   
-at the 5th ACM Conference on Recommender Systems (RecSys 2011)  
-http://recsys.acm.org/2011  
+The hetrec2011-lastfm-2k dataset is released in the framework of the 2nd International Workshop on Information Heterogeneity and Fusion in Recommender Systems [HetRec 2011](http://ir.ii.uam.es/hetrec2011)
+at the 5th ACM Conference on Recommender Systems [RecSys 2011](http://recsys.acm.org/2011) 
 
-The mapping file is formatted one entry per line as follows (tab separated, "\t"):  
+
+The mapping files are formatted one entry per line as follows (tab separated, "\t"):  
 artist_id	artist_name	DBpedia_URI  
 An example of mapping is the following:  
 1934	Adele	http://dbpedia.org/resource/Adele  
@@ -51,7 +49,7 @@ We did not find a mapping for all the artists in hetrec2011-lastfm-2k. We found 
 References
 ----------
    
-   If you use these mappings in your scientific work, please cite as  
+If you use these mappings in your scientific work, please cite as  
 
 ~~~
 @inproceedings{Ostuni:2013:TRI:2507157.2507172,
@@ -73,14 +71,6 @@ References
 }
 ~~~
 
-
-
-   If you use the hetrec2011-lastfm-2k dataset please refer to:  
-   http://ir.ii.uam.es/hetrec2011/datasets/lastfm/readme.txt  
-
-
-
-
 Credits
 -------
 
@@ -95,5 +85,7 @@ Contacts
 -------
 
    Tommaso Di Noia, tommaso [dot] dinoia [at] poliba [dot] it  
+   
    Paolo Tomeo, paolo [dot] tomeo [at] poliba [dot] it 
+   
    Vito Claudio Ostuni, vitoclaudio [dot] ostuni [at] poliba [dot] it  
