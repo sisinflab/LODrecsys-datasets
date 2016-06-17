@@ -20,7 +20,7 @@ The number of matched artists is the same of version 1.1, namely 11,180.
 Version 1.1
 =======================
 
-We used [DBpedia Lookup](https://github.com/dbpedia/lookup) to map each artist in the dataset with the corrisponding DBpedia resource (DBpedia 2015), using as QueryClass filter dbpedia-owl:Band and dbpedia-owl:MusicalArtist. We also implemented other filters to reduce the number of false positives in the final mapping. Finally, we manually checked all suspicious entities, if any, referenced by more than one dataset entry. For more datail about this procedure, see the references.
+We used [DBpedia Lookup](https://github.com/dbpedia/lookup) to map each artist in the dataset with the corrisponding DBpedia resource (DBpedia 2015), using as QueryClass filter dbpedia-owl:Band and dbpedia-owl:MusicalArtist. We also implemented other filters to reduce the number of false positives in the final mapping. Finally, we manually checked all suspicious entities, if any, referenced by more than one dataset entry. For more detail about this procedure, see the references.
 We found a match for 11,180 out of a total of 17,632 artists.
 
 
