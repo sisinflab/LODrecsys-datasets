@@ -30,7 +30,9 @@ If you use these mappings in your scientific work, please cite as
   url       = {http://doi.acm.org/10.1145/2959100.2959175},
   doi       = {10.1145/2959100.2959175},
 }
-
+~~~
+and
+~~~
 @article{DiNoiaOTS16,
   author    = {Tommaso {Di Noia} and Vito Claudio Ostuni and Paolo Tomeo and Eugenio {Di Sciascio}},
   title     = {SPrank: Semantic Path-Based Ranking for Top-\emph{N} Recommendations Using Linked Open Data},
