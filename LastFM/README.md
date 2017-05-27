@@ -17,6 +17,38 @@ This version is an improvement of the version 1.1, which contained some redirect
 We replaced those links with the actual ones. When a link redicted to a disambiguation page, we selected the correct link among the different redirects in that page.
 The number of matched artists is the same of version 1.1, namely 11,180.
 
+References
+----------
+If you use these mappings in your scientific work, please cite as  
+
+~~~
+@inproceedings{Fernandez-Tobias16,
+  author    = {Ignacio Fern{\'{a}}ndez{-}Tob{\'{\i}}as and Paolo Tomeo and Iv{\'{a}}n Cantador and Tommaso {Di Noia} and Eugenio {Di Sciascio}},
+  title     = {Accuracy and Diversity in Cross-domain Recommendations for Cold-start
+               Users with Positive-only Feedback},
+  booktitle = {Proceedings of the 10th {ACM} Conference on Recommender Systems, Boston, MA, USA, September 15-19, 2016},
+  pages     = {119--122},
+  year      = {2016},
+  url       = {http://doi.acm.org/10.1145/2959100.2959175},
+  doi       = {10.1145/2959100.2959175},
+}
+~~~
+and
+~~~
+@article{DiNoiaOTS16,
+  author    = {Tommaso {Di Noia} and Vito Claudio Ostuni and Paolo Tomeo and Eugenio {Di Sciascio}},
+  title     = {SPrank: Semantic Path-Based Ranking for Top-\emph{N} Recommendations Using Linked Open Data},
+  journal   = {{ACM} {TIST}},
+  volume    = {8},
+  number    = {1},
+  pages     = {9:1--9:34},
+  year      = {2016},
+  url       = {http://doi.acm.org/10.1145/2899005},
+  doi       = {10.1145/2899005},
+}
+~~~
+
+
 Version 1.1
 =======================
 
