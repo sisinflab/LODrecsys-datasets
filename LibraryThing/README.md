@@ -55,15 +55,19 @@ We found a match for 11,694 out of a total of 37,231 books.
 References
 ----------
    
-    If you use these mappings in your scientific work, please cite as  
+If you use these mappings in your scientific work, please cite as  
+
 ~~~
-@Article{DOTD16, 
-  author = {Tommaso {Di Noia} and Vito Claudio Ostuni and Paolo Tomeo and Eugenio {Di Sciascio}}, 
-  title = "SPRank: Semantic Path-based Ranking for Top-N Recommendations using Linked Open Data", 
-  journal = "ACM Transactions on Intelligent Systems and Technology (TIST)", 
-  year = "2016", 
-  note = "to appear", 
-  url = "http://sisinflab.poliba.it/sisinflab/publications/2016/DOTD16" 
+@article{DiNoiaOTS16,
+  author    = {Tommaso {Di Noia} and Vito Claudio Ostuni and Paolo Tomeo and Eugenio {Di Sciascio}},
+  title     = {SPrank: Semantic Path-Based Ranking for Top-\emph{N} Recommendations Using Linked Open Data},
+  journal   = {{ACM} {TIST}},
+  volume    = {8},
+  number    = {1},
+  pages     = {9:1--9:34},
+  year      = {2016},
+  url       = {http://doi.acm.org/10.1145/2899005},
+  doi       = {10.1145/2899005},
 }
 ~~~
    
