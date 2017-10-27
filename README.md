@@ -5,7 +5,7 @@ Here, we provide mappings to DBpedia resources of items in well known datasets t
 
 The mapped datasets are [LastFM](LastFM/), [Movielens1M](Movielens1M/) and [LibraryThing](LibraryThing/).
 You may find more information about each mapping in the relative README files. 
-In particular, we mapped 11,180 out of 17,632 artists in LastFM,  3,300 out of a total of 3,883 movies in Movielens1M, and 11,694 out of 37,231 books in LibraryThing.
+In particular, we mapped 10,180 out of 17,632 artists in LastFM,  3,300 out of a total of 3,883 movies in Movielens1M, and 11,694 out of 37,231 books in LibraryThing.
 
 
 
