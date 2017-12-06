@@ -11,7 +11,7 @@ Version 1.2
 =======================
 This version is an improvement of the version 1.1, which contained some redirect links. 
 We replaced those links with the actual ones. When a link redicted to a disambiguation page, we selected the correct link among the different redirects in that page.
-The number of matched artists is the same of version 1.1, namely 11,694.
+The number of matched books is the same of version 1.1, namely 11,694.
 
 References
 ----------
